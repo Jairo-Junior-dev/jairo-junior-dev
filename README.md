@@ -67,7 +67,7 @@
 
 ---
 
-## 📜 Certificações
+## 📜 Certificações(Em andamento)
 
 - ✅ [Curso X - Plataforma Y](#)
 - ✅ [Curso Avançado de PHP - Alura](#)
@@ -77,8 +77,8 @@
 
 ## ✍️🎥 Blog & YouTube
 
-- 📘 Blog: [meublog.com](https://meublog.com)
-- 📺 Canal: [YouTube - Meu Canal Dev](https://youtube.com/@jaerty1)
+- 📘 Blog: [Em Andamento](https://meublog.com)
+- 📺 Canal: [YouTube - Meu Canal Código Cômico](https://youtube.com/@jaerty1)
 
 ---
 
