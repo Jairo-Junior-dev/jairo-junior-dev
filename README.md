@@ -60,10 +60,10 @@
 
 ## 📬 Contato
 
-📧 **Email:** seuemail@email.com  
-💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/jairo-junior-ab270234a)  
-💻 **Portfólio(Em andamento):** [seu-portfolio.com](https://seu-portfolio.com)  
-📷 **Instagram (Em andamento):** [@seuusuario](https://instagram.com/seuusuario)
+📧 **Email:** jairopnhr02@gmail.com | jairopnhr@gmail.com   
+💼 **LinkedIn:** [linkedin.com/in/jairo-junior-ab270234a](https://linkedin.com/in/jairo-junior-ab270234a)  
+💻 **Portfólio(Em andamento):** [Em Andamento](https://seu-portfolio.com)  
+📷 **Instagram (Em andamento):** [Em Andamento](https://instagram.com/seuusuario)
 
 ---
 
