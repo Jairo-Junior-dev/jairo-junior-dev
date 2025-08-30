@@ -34,18 +34,6 @@
 
 ---
 
-## 🔥 Projetos
-
-| Nome | Descrição | Tecnologias |
-|------|-----------|-------------|
-| 📚 **App Biblioteca** | App com sistema de recomendação e empréstimos | Java, Spring Boot, Docker |
-| 🎵 **Plataforma de Música** | Streaming de músicas com React e API própria | React, Spring Boot |
-| 🛒 **E-commerce** | Loja com carrinho, painel e APIs REST | Laravel, React |
-
-➡️ *Veja todos os projetos no meu [GitHub](https://github.com/jairo-junior-dev)*
-
----
-
 ## 📊 Estatísticas
 
 <p align="center">
@@ -67,18 +55,10 @@
 
 ---
 
-## 📜 Certificações(Em andamento)
-
-- ✅ [Curso X - Plataforma Y](#)
-- ✅ [Curso Avançado de PHP - Alura](#)
-- ✅ [Spring Boot Professional - Udemy](#)
-
----
-
 ## ✍️🎥 Blog & YouTube
 
 - 📘 Blog: [Em Andamento](https://meublog.com)
-- 📺 Canal: [YouTube - Meu Canal Código Cômico](https://youtube.com/@jaerty1)
+- 📺 Canal: [YouTube - Código Cômico](https://youtube.com/@jaerty1)
 
 ---
 
