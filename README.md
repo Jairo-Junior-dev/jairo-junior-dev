@@ -50,7 +50,7 @@
 
 📧 **Email:** jairopnhr02@gmail.com | jairopnhr@gmail.com   
 💼 **LinkedIn:** [linkedin.com/in/jairo-junior-ab270234a](https://linkedin.com/in/jairo-junior-ab270234a)  
-💻 **Portfólio:** [Meu Portfólio]([https://seu-portfolio.com](https://jairo-junior-dev.github.io/meu-portifolio/))  
+💻 **Portfólio:** [Meu Portfólio](https://jairo-junior-dev.github.io/meu-portifolio/)
 📷 **Instagram:** [Instagram](https://www.instagram.com/jairopnhr/)
 
 ---
